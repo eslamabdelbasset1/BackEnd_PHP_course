@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #1d2124;
+}
+
+.nav-link,
+.navbar-brand
+{
+    color: #fff !important;
+}
+.nav-link:hover,
+.navbar-brand:hover
+{
+    color: #d39e00;
+}
+img.card-img-top
+{
+    height: 60%;
+}
+.btn-primary
+{
+    background-color: #d39e00 !important;
+    border-color: #d39e00 !important;
+}
+.fa-cart-plus{color: #d39e00 }
